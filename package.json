@@ -26,9 +26,9 @@
   "author": "King",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TrupeshChapaneri/react-api-use/issues"
+    "url": "https://github.com/TrupeshChapaneri/react-greeter-npm-lib/issues"
   },
-  "homepage": "https://github.com/TrupeshChapaneri/react-api-use#readme",
+  "homepage": "https://github.com/TrupeshChapaneri/react-greeter-npm-lib#readme",
   "devDependencies": {
     "@types/jest": "^27.5.0",
     "jest": "^28.0.3",
