@@ -1,5 +1,5 @@
 {
-  "name": "react-api-use",
+  "name": "react-greeter-npm-lib",
   "version": "1.0.0",
   "description": "A nice greeter by Tr",
   "main": "lib/index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TrupeshChapaneri/react-api-use.git"
+    "url": "git+https://github.com/TrupeshChapaneri/react-greeter-npm-lib.git"
   },
   "keywords": [
     "Greeter",
